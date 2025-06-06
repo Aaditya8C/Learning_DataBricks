@@ -19,12 +19,12 @@ A **data warehouse** is a system optimized for **querying and reporting** large 
 
 Here are some visual illustrations to help clarify the concepts:
 
-<div style="display: flex; flex-wrap: wrap; gap: 16px;">
-  <img src="d1.png" alt="Diagram 1" width="500" />
-  <img src="d4.png" alt="Diagram 2" width="200" />
-  <img src="d3.png" alt="Diagram 3" width="200" />
-  <img src="d6.png" alt="Diagram 4" width="200" />
-  <img src="d5.png" alt="Diagram 5" width="200" />
+<div style="display: grid; gap: 16px;">
+  <img src="d1.png" alt="Diagram 1"  />
+  <img src="d4.png" alt="Diagram 2" />
+  <img src="d3.png" alt="Diagram 3" />
+  <img src="d6.png" alt="Diagram 4" />
+  <img src="d5.png" alt="Diagram 5" />
 </div>
 
 ---
